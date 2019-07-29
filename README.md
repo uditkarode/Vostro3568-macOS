@@ -9,6 +9,6 @@ This is a backup of a fully working EFI Partition made to work on the Dell Vostr
 
 √ HDMI video output does not work. Kernel panic makes the thing restart.
 
-√ Trackpad sometimes does not work after a reboot.
+√ Trackpad sometimes does not work after wake.
 
-Tested working on macOS Mojave 10.14.4!
+Tested working on macOS Mojave 10.14.6!
